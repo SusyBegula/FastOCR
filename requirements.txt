@@ -1,0 +1,4 @@
+python-dotenv 
+google-genai 
+evdev 
+opencv-python
